@@ -24,8 +24,8 @@ The target users of this application are everyone who wants to learn or memorize
 
 
 ## Group Members
-Banda, Gilwyn Angelo M. (Project Manager)
-Relato, Christian Joy (Application Engineer)
-Deza, John Abe O. (Database Engineer)
-De claro, Jan Paulo (Technical Documentation Writer)
-Casila, John Menard P. (Technical Documentation Writer)
+1. Banda, Gilwyn Angelo M. (Project Manager)
+2. Relato, Christian Joy (Application Engineer)
+3. Deza, John Abe O. (Database Engineer)
+4. De claro, Jan Paulo (Technical Documentation Writer)
+5. Casila, John Menard P. (Technical Documentation Writer)
