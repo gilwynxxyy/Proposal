@@ -15,7 +15,7 @@
  
 
 ### Target Users
-The target users of this application are everyone who wants to learn or memorize something faster and in more efficient way.
+This app is acctually inspired by us,  students with low capacity in memorizing things. But it is free to everyone who's willing and intended to memorized deficient or numerous things such as words,  numbers,  letters,  phrases,  codes, and etc. This application may help anyone who's having a hard time in memorizing things in a short period of time.
 
 ### Benefits
 1. This application greatly enhances the memorizing skill of the user and helping them to remember it in the long run.
