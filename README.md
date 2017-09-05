@@ -4,8 +4,8 @@
 
 ## Statement of the Problem
 
-1. failing grade on an exam because they fail to recall what they studied.
-2. having a hard time to remember notes or something.
+1) most students are having difficulty in memorizing and recalling words or sentences they need on a certain topic. 
+2) study shows that a large papulation or percentage of student dont have the capacity to memorize things in a short period of time.
 
 
 ### Proposed Solution
